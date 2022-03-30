@@ -1,2 +1,2 @@
-const body = document.body
-body.style.backgroundColor = "lightBlue"
+const h1 = document.querySelector("h1")
+h1.style.color = "Blue"
